@@ -1,4 +1,4 @@
-# opioid-epidemics
+# The Opioid Crisis
 Project proposal for the Data Incubator. Exploratory data analysis on data around the Opioid Epidemics.
 
 Opioids are substances that act as powerful painkillers, and are therefore commonly prescribed in the treatment of pain following surgery. However, they also produce euphoria and are therefore highly addictive. Well-known examples of opioids include morphine and heroin.
@@ -14,3 +14,7 @@ In the second phase of this project, understanding the dynamics of the black mar
 Death rates by overdose involving opioids by State: https://acomets.github.io/opioid-crisis/map.html
 
 Opioid prescriptions vs. Total prescriptions by clinician specialty and credentials: https://acomets.github.io/opioid-crisis/facet.jpg
+
+# Data Sources
+- Medicare Provider Utilization and Payment Data: Prescriber Part D https://www.cms.gov/Research-Statistics-Data-and-Systems/Statistics-Trends-and-Reports/Medicare-Provider-Charge-Data/Part-D-Prescriber.html
+- CDC 2015 Drug Overdose Deaths https://data.world/cdc/2015-drug-overdose-deaths
